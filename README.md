@@ -1,6 +1,6 @@
 Link to data: https://drive.google.com/drive/folders/1lJ1VhRM7MUHmhCt9a3xPWvxFTAD1SqYL
 
-In this case study, we built recommendation systems using four different algorithms. They are as follows:
+In this case study,a recommendation system is built using four different algorithms. They are as follows:
   - Rank-based using averages
   - User-user similarity-based collaborative filtering
   - Item-item similarity-based collaborative filtering
