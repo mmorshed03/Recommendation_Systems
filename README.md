@@ -14,5 +14,8 @@ To demonstrate **"user-user similarity-based collaborative filtering", "item-ite
 Overall, the **optimized user-user similarity-based recommendation system** has given the **best performance** in terms of the F1-Score (~0.86)
 - Collaborative Filtering searches for neighbors based on similarity of books (example) preferences and recommend books that those neighbors read while Matrix factorization works by decomposing the user-item matrix into the product of two lower dimensionality rectangular matrices.
 - Matrix Factorization has lower RMSE (1.50) due to the reason that it assumes that both books and users are present in some low dimensional space describing their properties and recommend a book based on its proximity to the user in the latent space. Implying it accounts for latent factors as well.
-- We can try to further improve the performance of these models using hyperparameter tuning. 
-- We can also try to combine different recommendation techniques to build a more complex model like hybrid recommendation systems.
+
+**Next steps**
+
+- Try to further improve the performance of these models using hyperparameter tuning. 
+- Try to combine different recommendation techniques to build a more complex model like hybrid recommendation systems.
